@@ -3,7 +3,7 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>netcoreapp3.1</TargetFramework>
-	  <StartupObject>project2.Collections.B</StartupObject>
+	  <StartupObject>project2.Collections.collections_Assignment.Class16</StartupObject>
   </PropertyGroup>
 
 </Project>
